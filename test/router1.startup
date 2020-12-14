@@ -1,0 +1,5 @@
+ifconfig eth0 10.192.8.10/24 up
+ifconfig eth1 10.192.3.11/24 up
+
+/etc/init.d/quagga start
+
